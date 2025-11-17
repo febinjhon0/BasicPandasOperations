@@ -1,4 +1,4 @@
-#📘 Pandas Operations Guide
+# 📘 Pandas Operations Guide
 
 A beginner-friendly and practical guide that demonstrates essential Pandas operations used for data cleaning, analysis, transformation, and visualization.
 This repository is perfect for students, data analysts, and anyone learning data science with Python.
