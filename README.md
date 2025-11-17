@@ -29,4 +29,4 @@ Selecting rows / columns
 
 Conditional filtering
 
-Using loc[] and iloc[]
+Using loc[] and iloc[] 
